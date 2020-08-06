@@ -34,7 +34,7 @@ def create_event(start_time, end_time, summary, location, description):
         
     print('Adding ' + summary + ' to calendar ...')
         
-    return service.events().insert(calendarId='primary', body=event).execute()
+    return service.events().insert(calendarId='primary', body=event).execute() # adds event to google calender
 
 
 def add_events(chosen_events, event_df, society):
