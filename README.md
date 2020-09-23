@@ -21,7 +21,7 @@ That's it!
 You can add more universities/societies to the csv file with their corresponding mbasic links in place. This way you choose to keep the societies you have most keen in. Works with any society page so feel free to fill it in!
 The current csv file has cultural societies from universities in the Dublin area.
 
-# References
+# References
 Indian Pythonista's video above was a great help for the project. Following his video tutorial made it much easier than reading through the docs.
 https://www.youtube.com/watch?v=j1mh0or2CX8 
 Adriaan Van Niekerk's channel has helped a lot when it comes to parsing with bs4 
