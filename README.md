@@ -23,6 +23,9 @@ The current csv file has cultural societies from universities in the Dublin area
 
 # References
 Indian Pythonista's video above was a great help for the project. Following his video tutorial made it much easier than reading through the docs.
+
 https://www.youtube.com/watch?v=j1mh0or2CX8 
+
 Adriaan Van Niekerk's channel has helped a lot when it comes to parsing with bs4 
+
 https://www.youtube.com/channel/UC62YcVWO968SSeAM1YK_C-w
